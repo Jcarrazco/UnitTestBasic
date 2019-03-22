@@ -1,0 +1,6 @@
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\Calculadora Unit Tested\bin\Debug\Calculadora Unit Tested.exe.config
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\Calculadora Unit Tested\bin\Debug\Calculadora Unit Tested.exe
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\Calculadora Unit Tested\bin\Debug\Calculadora Unit Tested.pdb
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\Calculadora Unit Tested\obj\Debug\Calculadora Unit Tested.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\Calculadora Unit Tested\obj\Debug\Calculadora Unit Tested.exe
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\Calculadora Unit Tested\obj\Debug\Calculadora Unit Tested.pdb

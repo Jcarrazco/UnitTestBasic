@@ -1,0 +1,17 @@
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\UnitTestMathBasico.dll
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\UnitTestMathBasico.pdb
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\Calculadora Unit Tested.exe
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\Calculadora Unit Tested.pdb
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\Calculadora Unit Tested.exe.config
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\obj\Debug\UnitTestMathBasico.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\obj\Debug\UnitTestMathBasico.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\obj\Debug\UnitTestMathBasico.csproj.CopyComplete
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\obj\Debug\UnitTestMathBasico.dll
+C:\Users\carrascoja\source\repos\Calculadora Unit Tested\UnitTestMathBasico\obj\Debug\UnitTestMathBasico.pdb
